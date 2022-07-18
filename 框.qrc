@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="NEW透明">
+    <file>image/超低灰色透明窗.png</file>
+    <file>image/蓝色透明框.png</file>
+    <file>image/黑色透明框.png</file>
+    <file>image/透明框.png</file>
+  </qresource>
+</RCC>
